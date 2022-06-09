@@ -3,4 +3,4 @@ Hello everyone, This is a mini project that i built in the second year of my col
 
 Software requirements:
 Netbeans- latest version
-jdk- latest  version
+JDK- latest  version
